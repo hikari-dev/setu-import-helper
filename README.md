@@ -4,7 +4,8 @@
 
 此工具实现了自动解析并将数据导入数据库。
 
-## 依赖
+## 用到的一些依赖
 
-- kotlinx.serialiaztion
+- kotlinx.serialization
 - exposed
+- hikaricp
